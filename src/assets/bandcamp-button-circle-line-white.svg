@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>
+        bandcamp-button-circle-line-white
+    </title>
+    <defs>
+        <path id="a" d="M187.778 161.505H.997L88.22.495h186.783z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M256 512C114.615 512 0 397.385 0 256S114.615 0 256 0s256 114.615 256 256-114.615 256-256 256zm0-16c132.548 0 240-107.452 240-240S388.548 16 256 16 16 123.452 16 256s107.452 240 240 240z" fill="#FFF"/>
+        <g transform="translate(118 175)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path fill="#FFF" mask="url(#b)" d="M.98 161.56h274.08V.4H.98z"/>
+        </g>
+    </g>
+</svg>
