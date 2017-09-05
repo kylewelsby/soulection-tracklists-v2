@@ -3,14 +3,14 @@ import Vuex from 'vuex'
 
 import initialState from '../../library.json'
 
-import * as actions from './actions'
+// import * as actions from './actions'
 import * as getters from './getters'
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: initialState,
-  actions,
+  actions: {},
   getters,
   modules: {},
   strict: true

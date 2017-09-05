@@ -13,8 +13,10 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
+    "karma-chrome-launcher": "^2.2.0",
     "moment": "^2.18.1",
     "prerender-spa-plugin": "^2.1.0",
+    "puppeteer": "^0.10.2",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0",
     "vuex": "^2.4.0"
@@ -88,5 +90,12 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "standard": {
+    "globals": [
+      "describe",
+      "it",
+      "expect"
+    ]
+  }
 }
