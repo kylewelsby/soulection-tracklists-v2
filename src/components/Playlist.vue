@@ -53,6 +53,9 @@ export default {
       required: true
     }
   },
+  mounted () {
+    document.title = `Soulection - ${this.playlist.name} from Show #${this.episode.number}`
+  },
   data () {
     let playlist = this.$store.state.playlists[this.id]
     return {

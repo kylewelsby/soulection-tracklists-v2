@@ -8,7 +8,7 @@
         <div class="row">
           <div class="col">
             <h4>Show #{{number}}
-              <small v-if="episode.broadcastedAt"> - {{ episodeDate() }}</small>
+              <small v-if="episode.broadcastedAt"> - {{ episodeDate }}</small>
             </h4>
           </div>
           <div class="col text-right">
@@ -81,6 +81,14 @@ export default {
       tracks: tracks
     }
   },
+  mounted () {
+    document.title = `Soulection - Show #${this.episode.number} - ${this.episodeDate}`
+  },
+  computed: {
+    episodeDate () {
+      return moment(this.episode.broadcastedAt).format('Do MMMM Y')
+    }
+  },
   methods: {
     moment () {
       return moment()
@@ -95,9 +103,6 @@ export default {
     },
     playlistForTrack (track) {
       return this.$store.state.playlists[track.playlistId]
-    },
-    episodeDate () {
-      return moment(this.episode.broadcastedAt).format('Do MMMM Y')
     },
     audioAtTime (v) {
       let dur = moment.duration(v)
