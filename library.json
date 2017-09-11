@@ -20610,6 +20610,62 @@
     "01BS78Z3NTSNDJ859TYHKMYHYB": {
       "artist": "The Moments",
       "title": "Lovely Way She Loves"
+    },
+    "01BSR38TETGNST14M536W2DZQD": {
+      "artist": "RASCAL",
+      "title": "Redbird5"
+    },
+    "01BSR38TF4TVP5956GH158ZFZ5": {
+      "artist": "Sly5thAve",
+      "title": "Pour It Up"
+    },
+    "01BSR38TFDWVP7MPPPYA9RXBTF": {
+      "artist": "Jeremih ft. Chance The Rapper",
+      "title": "Planes Remix (prod. by Lido & The Social Experiment)"
+    },
+    "01BSR38TFKJ1VQ693MHZTTXEE0": {
+      "artist": "Brysontiller",
+      "title": "Sorry Not Sorry ( J-Louis x Fortune )"
+    },
+    "01BSR38TFRC2YPMC28CXNW2PY3": {
+      "artist": "Tek.Lun",
+      "title": "OKAY (FEAT TEK LUN WITH ADDITIONAL KICKS FROM TEK LUN AND OTHER SOUNDS FROM TEK LUN)"
+    },
+    "01BSR38TG359MSXTSS6GDNJZZ3": {
+      "artist": "Braille",
+      "title": "Everyone's Crazy (Macinedrum Remix)"
+    },
+    "01BSR38TGB8KMA7T6ZXYGBCMCB": {
+      "artist": "Branden Bailey",
+      "title": "Welcome to SoundCloud 2015!"
+    },
+    "01BSR38TGVNWE8A34N04G4KHC6": {
+      "artist": "Dressin Red",
+      "title": "Body Pain (Sivey Remix)"
+    },
+    "01BSR38THAXMCRVPG5Y0N648PD": {
+      "artist": "Erykah Badu",
+      "title": "Love of my live (an ode to hip hop) - bonus track"
+    },
+    "01BSR38THQ59NVWVVR5KT5A3JA": {
+      "artist": "Dwele",
+      "title": "High (ft. Bahamedia)"
+    },
+    "01BSR38TJ2XYBJA0AYHCJ2Q52M": {
+      "artist": "Raphael Saadiq",
+      "title": "You're the one I like"
+    },
+    "01BSR38TJA96QY0H9SPVFAW148": {
+      "artist": "Rane & Angela",
+      "title": "Imaginary Playmate"
+    },
+    "01BSR38TJYY9DRAEP3Y8HHGF4J": {
+      "artist": "ATCQ",
+      "title": "Bontia Applebum (instrumental)"
+    },
+    "01BSR38TKEWCBF9DCPM451MS80": {
+      "artist": "Rustie",
+      "title": "After Light (ft. Aluna George)"
     }
   },
   "playlists": {
@@ -21348,6 +21404,18 @@
     "01BS78Z3M4AMQ0PNZZ23AHH7WE": {
       "episodeId": "01BS78Z3G01WS7F8YXEX8RCG3W",
       "name": "Toro y Moi’s Session"
+    },
+    "01BSR38TEFS4JRF1JEJTBM7Q6P": {
+      "episodeId": "01BSR38TEB4NAE8PRJNW38NAM0",
+      "name": "Joe Kay's Session"
+    },
+    "01BSR38TJKCHQ2K4T3J4B16S23": {
+      "episodeId": "01BSR38TEB4NAE8PRJNW38NAM0",
+      "name": "PYRMDPLAZA Interview"
+    },
+    "01BSR38TK5T7RDXVX6RXPCWS5Q": {
+      "episodeId": "01BSR38TEB4NAE8PRJNW38NAM0",
+      "name": "PYRMDPLAZA's Session"
     }
   },
   "episodes": {
@@ -62614,6 +62682,398 @@
       "soundcloudUrl": "http://soundcloud.com/soulection/soulection-radio-show-324-ft-sonder",
       "artworkUrl": "https://i1.sndcdn.com/artworks-000240864852-qg1em5-t500x500.jpg",
       "broadcastedAt": "2017-08-26"
+    },
+    "01BSR38TEB4NAE8PRJNW38NAM0": {
+      "number": 212,
+      "tracks": [
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2H7MTBZHCHDYB9AMJ19",
+          "startAt": "P0D",
+          "endAt": "PT2M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HC0PRZ35EMJ914VGM6",
+          "startAt": "PT3M",
+          "endAt": "PT5M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HGCM2S6P65DW3MFKBV",
+          "startAt": "PT6M",
+          "endAt": "PT8M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TETGNST14M536W2DZQD",
+          "startAt": "PT9M",
+          "endAt": "PT11M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HKH9T023YPPTE440S1",
+          "startAt": "PT12M",
+          "endAt": "PT14M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HM95QT71WAV9V6YMB1",
+          "startAt": "PT15M",
+          "endAt": "PT17M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HPJD9SE06J1W79VR8G",
+          "startAt": "PT18M",
+          "endAt": "PT20M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TF4TVP5956GH158ZFZ5",
+          "startAt": "PT21M",
+          "endAt": "PT23M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HRWV87M6ZNP2CTJH67",
+          "startAt": "PT24M",
+          "endAt": "PT26M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HSRD3C26XQYP52DE2W",
+          "startAt": "PT27M",
+          "endAt": "PT29M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HSVH61C3HANPW669AM",
+          "startAt": "PT30M",
+          "endAt": "PT32M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HTB8VTJK98ZV3WS2P5",
+          "startAt": "PT33M",
+          "endAt": "PT35M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78XZYWNDA12MT6HC0FKJNG",
+          "startAt": "PT36M",
+          "endAt": "PT38M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TFDWVP7MPPPYA9RXBTF",
+          "startAt": "PT39M",
+          "endAt": "PT41M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2HWDA6C7EWNWRKGGV4E",
+          "startAt": "PT42M",
+          "endAt": "PT44M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TFKJ1VQ693MHZTTXEE0",
+          "startAt": "PT45M",
+          "endAt": "PT47M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TFRC2YPMC28CXNW2PY3",
+          "startAt": "PT48M",
+          "endAt": "PT50M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2J01JW1DSY856EZJAP9",
+          "startAt": "PT51M",
+          "endAt": "PT53M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2J06DYXE1CGM9JQ3R3X",
+          "startAt": "PT54M",
+          "endAt": "PT56M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y03J8QW4ZP0P8S61HN1N",
+          "startAt": "PT57M",
+          "endAt": "PT59M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2J2F1EGVYAH4YRSZ962",
+          "startAt": "PT1H",
+          "endAt": "PT1H2M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2J3QMRY1R5F1KG8AFAF",
+          "startAt": "PT1H3M",
+          "endAt": "PT1H5M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TG359MSXTSS6GDNJZZ3",
+          "startAt": "PT1H9M",
+          "endAt": "PT1H11M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y0FCY5F2DDAPTHP35986",
+          "startAt": "PT1H12M",
+          "endAt": "PT1H14M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2J6SV85RMBNS9PXFM4A",
+          "startAt": "PT1H15M",
+          "endAt": "PT1H17M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TGB8KMA7T6ZXYGBCMCB",
+          "startAt": "PT1H18M",
+          "endAt": "PT1H20M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2J9XVKT0M2J0FRJSNGG",
+          "startAt": "PT1H21M",
+          "endAt": "PT1H23M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JAGV24Z6JMKN5G80XD",
+          "startAt": "PT1H24M",
+          "endAt": "PT1H26M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TGVNWE8A34N04G4KHC6",
+          "startAt": "PT1H27M",
+          "endAt": "PT1H29M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JCT9VNM2D2VK5THA0T",
+          "startAt": "PT1H30M",
+          "endAt": "PT1H32M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JDAGSZSM0BD63BV7YP",
+          "startAt": "PT1H33M",
+          "endAt": "PT1H35M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38THAXMCRVPG5Y0N648PD",
+          "startAt": "PT1H36M",
+          "endAt": "PT1H38M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JGJ87W91ZPXWJGNPB5",
+          "startAt": "PT1H39M",
+          "endAt": "PT1H41M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JJ231G44DG0HSJNYTZ",
+          "startAt": "PT1H42M",
+          "endAt": "PT1H44M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38THQ59NVWVVR5KT5A3JA",
+          "startAt": "PT1H45M",
+          "endAt": "PT1H47M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TJ2XYBJA0AYHCJ2Q52M",
+          "startAt": "PT1H48M",
+          "endAt": "PT1H50M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BSR38TJA96QY0H9SPVFAW148",
+          "startAt": "PT1H51M",
+          "endAt": "PT1H53M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JPR5G4F5ZV05NN77T3",
+          "startAt": "PT1H54M",
+          "endAt": "PT1H56M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JQMWMG4Q68HBXRJACS",
+          "startAt": "PT1H57M",
+          "endAt": "PT1H59M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JR0FPJCWQK48JVGWA5",
+          "startAt": "PT2H",
+          "endAt": "PT2H2M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2JS4J2DEXFQSSKF5WG3",
+          "startAt": "PT2H3M",
+          "endAt": "PT2H5M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TJKCHQ2K4T3J4B16S23",
+          "trackId": "01BS78Y2JTE67YS6A6A0V5PGN5",
+          "startAt": "PT2H6M",
+          "endAt": "PT2H8M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TJKCHQ2K4T3J4B16S23",
+          "trackId": "01BS78Y2JV1KYX8MY8Z8AGV6WC",
+          "startAt": "PT2H9M",
+          "endAt": "PT2H11M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TJKCHQ2K4T3J4B16S23",
+          "trackId": "01BS78Y043F7KA7T1B1PAM84YS",
+          "startAt": "PT2H12M",
+          "endAt": "PT2H14M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TJKCHQ2K4T3J4B16S23",
+          "trackId": "01BSR38TJYY9DRAEP3Y8HHGF4J",
+          "startAt": "PT2H15M",
+          "endAt": "PT2H17M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TJKCHQ2K4T3J4B16S23",
+          "trackId": "01BS78Y2JYCSEZGT9WCRJEH1N4",
+          "startAt": "PT2H18M",
+          "endAt": "PT2H20M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TJKCHQ2K4T3J4B16S23",
+          "trackId": "01BS78Y2K0DWGN32Z8A0C9KGM5",
+          "startAt": "PT2H21M",
+          "endAt": "PT2H23M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K0CDE4AX1VP1NP86BQ",
+          "startAt": "PT2H24M",
+          "endAt": "PT2H26M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K1J9E1PW256R0HXFN1",
+          "startAt": "PT2H27M",
+          "endAt": "PT2H29M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BSR38TKEWCBF9DCPM451MS80",
+          "startAt": "PT2H30M",
+          "endAt": "PT2H32M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y0Z6AXW209ZJWEQ9VJM6",
+          "startAt": "PT2H33M",
+          "endAt": "PT2H35M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y0ZF2QPFJRXPW5VKA1MF",
+          "startAt": "PT2H36M",
+          "endAt": "PT2H38M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K4GVJP5HFPCE7RE1G5",
+          "startAt": "PT2H39M",
+          "endAt": "PT2H41M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y09ZFRJJ87F9NRZGMY5W",
+          "startAt": "PT2H42M",
+          "endAt": "PT2H44M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K5MSGBN6171AVKR0ME",
+          "startAt": "PT2H45M",
+          "endAt": "PT2H47M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K6MRSE8SK3BX2HXCK2",
+          "startAt": "PT2H51M",
+          "endAt": "PT2H53M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K752JZARMJA4DA3HPF",
+          "startAt": "PT2H54M",
+          "endAt": "PT2H56M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2K8RBZH5N3Z9RJ17V9V",
+          "startAt": "PT2H57M",
+          "endAt": "PT2H59M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TK5T7RDXVX6RXPCWS5Q",
+          "trackId": "01BS78Y2KAVTJVN0C8K62ES6DR",
+          "startAt": "PT3H6M",
+          "endAt": "PT3H8M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y0G5EHNP99XD2W9MM9NA",
+          "startAt": "PT3H9M",
+          "endAt": "PT3H11M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2KC2M4XFE9A3GJVNEZY",
+          "startAt": "PT3H12M",
+          "endAt": "PT3H14M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2KDY9HW30G0WF3H6PS0",
+          "startAt": "PT3H15M",
+          "endAt": "PT3H17M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y2KE5C46PZ0GJM702BTV",
+          "startAt": "PT3H18M",
+          "endAt": "PT3H20M59.5S"
+        },
+        {
+          "playlistId": "01BSR38TEFS4JRF1JEJTBM7Q6P",
+          "trackId": "01BS78Y0ZKPP3YW6HH30Q7T5FM",
+          "startAt": "PT3H21M",
+          "endAt": "PT3H23M59.5S"
+        }
+      ],
+      "soundcloudUrl": "https://soundcloud.com/soulection/soulection-radio-show-212-w-pyrmdplaza-1",
+      "broadcastedAt": "2015-05-31",
+      "artworkUrl": "https://i1.sndcdn.com/artworks-000118764466-pqi6l7-t500x500.jpg"
     }
   }
 }
