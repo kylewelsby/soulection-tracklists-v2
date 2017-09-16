@@ -5,7 +5,7 @@
       <tr v-for="episode in episodes" :key="episode.episodeId">
         <td width="64">
           <router-link :to="{name: 'Episode', params: {number: episode.number}}">
-            <img :src="episode.artworkUrl" :alt="'Show #' + episode.number" width="64" style="display: inline-block;">
+            <img :src="episodeThumbnail(episode.artworkUrl)" :alt="'Show #' + episode.number" width="64" style="display: inline-block;">
           </router-link>
         </td>
         <td>
@@ -53,6 +53,9 @@ export default {
     }
   },
   methods: {
+    episodeThumbnail (artwork) {
+      return artwork.replace('t500x500', 't80x80')
+    },
     episodeDate (v) {
       return moment(v).format('Do MMMM Y')
     },

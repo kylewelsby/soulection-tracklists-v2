@@ -9,7 +9,7 @@
         <tr v-for="playlist in filteredPlaylists">
           <td width="64">
             <router-link :to="{name: 'Playlist', params: {id: playlist.playlistId}}">
-              <img :src="episode(playlist.episodeId).artworkUrl" :alt="'Show #' + episode(playlist.episodeId).number" width="64" style="display: inline-block;">
+              <img :src="episodeThumbnail(playlist.episodeId)" :alt="'Show #' + episode(playlist.episodeId).number" width="64" style="display: inline-block;">
             </router-link>
           </td>
           <td>
@@ -81,6 +81,10 @@ export default {
   methods: {
     episode (episodeId) {
       return this.$store.state.episodes[episodeId]
+    },
+    episodeThumbnail (episodeId) {
+      let episode = this.episode(episodeId)
+      return episode.artworkUrl.replace('t500x500', 't80x80')
     },
     tracksForPlaylist (playlistId) {
       return this.$store.getters.tracksForPlaylist(playlistId)
