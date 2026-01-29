@@ -52,7 +52,6 @@
       <div class="card-body">
         <h3 class="card-title">Oh no</h3>
         <p class="card-text">The tracklist for this show has not been officially published by the Soulection team yet.</p>
-        <p class="card-text">If you're a keen track identifier, please help out by <a href="https://kylewelsby.typeform.com/to/qZCg4b" class="btn btn-light">submitting edits</a> or email a whole list through to <a href="mailto:kyle@mekyle.com" class="btn btn-light">kyle@mekyle.com</a></p>
       </div>
     </section>
   </div>
