@@ -24,9 +24,6 @@
           <li class="nav-item">
             <router-link :to="{ name: 'Artists' }" class="nav-link">Artists</router-link>
           </li> -->
-          <li class="nav-item">
-            <a href="https://kylewelsby.typeform.com/to/qZCg4b" target="_blank" class="btn btn-primary">Suggest Edit</a>
-          </li>
         </ul>
 
       </div>
